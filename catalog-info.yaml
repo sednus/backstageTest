@@ -3,3 +3,7 @@ kind: Component
 metadata:
   name: app-store-test
   description: An example of a Backstage application.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
